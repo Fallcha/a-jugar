@@ -18,7 +18,7 @@
 > Como siempre, lo dejamos todo para el final a ultima hora.  
 > Hay que tener cuidado de que Ulises no vea el repositorio, en el feed de Github.  
 > Originalmente el repo lo construyo con un nombre extraño para no levantar sospechas en: https://github.com/baumannzone/super-duper-carnival  
-> Hacemos commits de tipo:   
+> Hacemos commits de tipo "💩", "🦄", etc, para no llamar la atención.  
 > Hacemos el juego y el video.  
 > Creamos la organizacion (dentro de github) __LiadosByUlises__  
 > Terminamos todo y lo subimos 5h antes de que empiece el evento.  
@@ -28,7 +28,8 @@
 
 ### No me rayes tete
 ¿No te has enterado de nada?  
-Entonces únete al [slack](http://invitations-osweekends.herokuapp.com/?ref=liadosbyulises-a-jugar) de la comunidad. Ahí te enterarás de todo lo que pasa en [Open Source Weekends](https://twitter.com/os_weekends), desde noticias interesantes hasta poder ver el proceso de _la liada_ en vivo y en directo 😜.  
+Entonces únete al [slack](http://invitations-osweekends.herokuapp.com/?ref=liadosbyulises-a-jugar) de la comunidad. 
+Ahí te enterarás de todo lo que pasa en [Open Source Weekends](https://twitter.com/os_weekends), desde noticias interesantes hasta poder ver el proceso de _la liada_ en vivo y en directo 😜.  
 En el Slack, tenemos canales variados para todo tipo de conversaciones, gente con ganas de hacer proyectos y mucha gente experta con ganas de responder preguntas. ¿A qué esperas?  
 
 
