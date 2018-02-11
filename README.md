@@ -30,3 +30,10 @@
 ¿No te has enterado de nada?  
 Entonces únete al [slack](http://invitations-osweekends.herokuapp.com/?ref=liadosbyulises-a-jugar) de la comunidad. Ahí te enterarás de todo lo que pasa en [Open Source Weekends](https://twitter.com/os_weekends), desde noticias interesantes hasta poder ver el proceso de _la liada_ en vivo y en directo 😜.  
 En el Slack, tenemos canales variados para todo tipo de conversaciones, gente con ganas de hacer proyectos y mucha gente experta con ganas de responder preguntas. ¿A qué esperas?  
+
+
+### Contributors:
+- [Jorge Baumann](https://twitter.com/baumannzone)
+- [Josheriff](https://twitter.com/Josheriff)
+- [Sebastian Cabanas](https://twitter.com/Sebastiancbvz)
+- [Ancoar](https://twitter.com/ancoar)
