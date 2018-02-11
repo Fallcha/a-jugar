@@ -33,7 +33,33 @@ En el Slack, tenemos canales variados para todo tipo de conversaciones, gente co
 
 
 ### Contributors:
+###### (Dev)
 - [Jorge Baumann](https://twitter.com/baumannzone)
 - [Josheriff](https://twitter.com/Josheriff)
 - [Sebastian Cabanas](https://twitter.com/Sebastiancbvz)
 - [Ancoar](https://twitter.com/ancoar)
+
+###### (Video)
+- [Jorge Baumann](https://twitter.com/baumannzone)
+- [Josheriff](https://twitter.com/Josheriff)
+- [Sebas](https://twitter.com/Sebastiancbvz)
+- [Chuck, the bohemian](https://twitter.com/oneeyedman)
+- [Vicky](https://twitter.com/ThunderVikki)
+- [Elena](https://twitter.com/ancoar)
+- [B.](https://twitter.com/ancoar)
+- [Pablo](https://twitter.com/ancoar)
+- [Coding Carlos](https://twitter.com/ancoar)
+- [Ancoar](https://twitter.com/ancoar)
+- [Theba](https://twitter.com/KoolTheba)
+- [Yoel](https://twitter.com/____ymd____)
+- [Chelo](https://twitter.com/lilxelo)
+- [Bifuer](https://twitter.com/bifuer)
+- [Leti](https://twitter.com/nimbusaeta)
+- [Jacinto](https://twitter.com/jacintoj_IT)
+- [Pepe](https://twitter.com/pepe_sb1)
+
+
+###### (Diseño Portada)
+- [Chuck, the bohemian](https://twitter.com/oneeyedman)
+
+
